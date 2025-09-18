@@ -1,0 +1,7 @@
+com.android.vending!
+com.finalwire.aida64
+com.google.android.gms!
+com.google.android.gsf!
+com.reveny.nativecheck
+io.github.vvb2060.keyattestation
+com.whatsapp!
