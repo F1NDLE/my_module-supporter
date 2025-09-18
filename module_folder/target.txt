@@ -1,4 +1,0 @@
-com.android.vending!
-com.google.android.gms!
-com.google.android.gsf!
-com.whatsapp!
